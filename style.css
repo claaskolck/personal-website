@@ -1,0 +1,23 @@
+body {
+    color: rgb(204, 0, 255);
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/42/466/desktop-wallpaper-respect-superman-dc-extended-universe-superman.jpg");
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#Superkräfte {
+    border: 4px solid;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(139, 0, 0);
+    text-align: center;
+    position: relative;
+    top: 30px ;
+}
