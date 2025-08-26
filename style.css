@@ -1,10 +1,10 @@
 body {
-    color: rgb(204, 0, 255);
+    color: rgb(0, 47, 255);
     font-family: "Libre Caslon Text", serif;
     font-weight: 700;
     font-style: normal;
     font-size: 28px;
-    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/42/466/desktop-wallpaper-respect-superman-dc-extended-universe-superman.jpg");
+    background-image: url("https://i0.web.de/image/426/41198426,pd=1/verkoerperte-alten-dc-universum-superman-henry-cav.jpg");
     background-repeat: no-repeat;
     background-position:top;
     background-size: cover;
@@ -12,12 +12,28 @@ body {
 }
 
 
-#Superkräfte {
-    border: 4px solid;
-    height: 100px;
-    width: 100px;
-    background-color: rgb(139, 0, 0);
+#Meingeheimnis {
+    border: 8px solid;
+    height: 180px;
+    width: 300px;
+    background-color: rgba(139, 32, 0, 0.233);
     text-align: center;
     position: relative;
     top: 30px ;
+}
+#Meinesuperkräfte {
+border: 7px solid;
+height: 250px;
+width: 200px;
+background-color: rgba(165, 42, 63, 0.103);
+text-align: center;
+position: relative;
+top: 25px;
+transform: translate(1000px, -250px);
+}
+    
+.flex{
+    flex:auto;
+    align-items: center;
+    justify-content: center;
 }
