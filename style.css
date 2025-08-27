@@ -6,7 +6,7 @@ body {
     font-size: 28px;
     background-image: url("https://i0.web.de/image/426/41198426,pd=1/verkoerperte-alten-dc-universum-superman-henry-cav.jpg");
     background-repeat: no-repeat;
-    background-position:top;
+    background-position: top;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -19,21 +19,31 @@ body {
     background-color: rgba(139, 32, 0, 0.233);
     text-align: center;
     position: relative;
-    top: 30px ;
+    top: 30px;
 }
+
 #Meinesuperkräfte {
-border: 7px solid;
-height: 250px;
-width: 200px;
-background-color: rgba(165, 42, 63, 0.103);
-text-align: center;
-position: relative;
-top: 25px;
-transform: translate(1000px, -250px);
+    border: 7px solid;
+    border-radius: 170px;
+    height: 270px;
+    width: 210px;
+    background-color: rgba(165, 42, 63, 0.103);
+    text-align: center;
+    position: relative;
+    top: 25px;
+    transform: translate(1000px, -250px);
 }
-    
-.flex{
-    flex:auto;
-    align-items: center;
-    justify-content: center;
+
+#freeslots {
+    border: 8px solid ;
+    height: 240px;
+    width: 200px;
+    background-color: rgba(165, 42, 63, 0.103);
+    text-align: center;
+    position: relative;
+    top: 25px;
 }
+
+
+
+
