@@ -25,13 +25,14 @@ body {
 #Meinesuperkräfte {
     border: 7px solid;
     border-radius: 170px;
-    height: 270px;
+    height: 210px;
     width: 210px;
     background-color: rgba(165, 42, 63, 0.103);
     text-align: center;
     position: relative;
     top: 25px;
     transform: translate(1000px, -250px);
+    font-size: 30px;
 }
 
 #freeslots {
